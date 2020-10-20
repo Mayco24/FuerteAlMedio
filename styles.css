@@ -1,0 +1,29 @@
+body{
+    /*Fondo de Imagen*/
+    background-image: url("https://besthqwallpapers.com/Uploads/4-4-2018/47172/grass-texture-4k-green-grass-green-background.jpg");
+    /*background-image: url("https://besthqwallpapers.com/Temp/19-10-2020/grass-texture-green-grass-green-grass-background-lawn-earth-besthqwallpapers.com-1920x1080.jpg");
+    */background-size: 100%, 100%; /*Posicionar la imagen completa y que no se repita*/
+    /*Fuente de la pagina*/
+    font-family: 'Oswald', sans-serif;
+}
+
+.TIL1{
+    margin: auto;
+    text-align:center; /*PONERLO EN EL MEDIO*/
+    color: whitesmoke;
+    font-size: xx-large; /*AGRANDAR TEXTO*/
+    text-decoration: none;
+}
+
+.Champions, .Euro , .America{
+    height: 250px;
+    width: 250px;
+    border-style: groove;
+    border-color: darkolivegreen;
+}
+
+.CENIMG{
+    text-align: center;
+    margin-right: 10px; margin-top: 100px; margin-bottom: 20px;
+}
+
